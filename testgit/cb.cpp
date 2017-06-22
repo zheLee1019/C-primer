@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"测试git：第一版"<<endl;
+    cout<<"测试git：第二版"<<endl;
     return 0;
 }
