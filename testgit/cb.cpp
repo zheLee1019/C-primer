@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"²âÊÔgit£ºµÚ¶þ°æ"<<endl;
-    return 0;
+    cout<<"æµ‹è¯•git"<<endl;
+    return 0;//ç¬¬å››ç‰ˆ
 }
