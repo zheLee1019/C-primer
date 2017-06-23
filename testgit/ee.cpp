@@ -6,3 +6,6 @@ int main() {
 	system("pause");
 	return 0;
 }
+
+
+//使用notepad++把它转为utf-8

@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 	auto i = 1019;
-	cout << "i的值是" <<i<< endl;//直接上传不打开
+	cout << "i鐨勫�兼槸" <<i<< endl;//鐩存帴涓婁紶涓嶆墦寮�
 	system("pause");
 	return 0;
 }
