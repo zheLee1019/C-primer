@@ -1,11 +1,8 @@
-#include<iostream>
+﻿#include<iostream>
 using namespace std;
 int main() {
 	auto i = 1019;
-	cout << "i的值是" <<i<< endl;//保存为utf8编码
+	cout << "i的值是" <<i<< endl;//直接上传不打开
 	system("pause");
-	return 0;
+	return 0;//达到
 }
-
-
-//使用notepad++把它转为utf-8
