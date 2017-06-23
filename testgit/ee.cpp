@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int main() {
-	cout << "第一个" << endl;
+	auto i = 1019;
+	cout << "i的数字是" <<i<< endl;
 	system("pause");
 	return 0;
 }
